@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Padding">16dp</dimen>
+    <dimen name="textSizes">18sp</dimen>
+    <dimen name="Image_wather_width">100dp</dimen>
+    <dimen name="img_weather_height">100dp</dimen>
+    <dimen name="layout_height">200dp</dimen>
+    <dimen name="size17celcius">24sp</dimen>
+</resources>
