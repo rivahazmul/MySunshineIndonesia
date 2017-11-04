@@ -48,7 +48,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:text="Hujan Rintik Rintik"
+                    android:text="@string/weather_Desc"
                     android:textSize="@dimen/textSizes"/>
 
             </LinearLayout>
@@ -58,7 +58,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:gravity="center"
-                android:text="@string/weather_temperatur"
+                android:text="@string/weather_temperatur
                 android:textSize="@dimen/size17celcius"
                 android:textColor="#2519ca"/>
         </LinearLayout>
